@@ -1,5 +1,6 @@
-\*
-!.gitignore
-!\app\src\main\java\com\yuesport\yuesports
-!\app\src\main\res
-!\app\src\main\AndroidManifest.xml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
