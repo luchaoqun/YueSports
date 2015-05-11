@@ -1,5 +1,5 @@
-/*
+./*
 !.gitignore
-!.YueSports/app/src/main/java/com/yuesport/yuesports
-!.YueSports/app/src/main/res
-!.YueSports/app/src/main/AndroidManifest.xml
+!./app/src/main/java/com/yuesport/yuesports
+!./app/src/main/res
+!./app/src/main/AndroidManifest.xml
