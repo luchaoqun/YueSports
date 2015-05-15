@@ -142,6 +142,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
                 break;
         }
     }
+
     /**
      * 切换图片至暗色
      */
